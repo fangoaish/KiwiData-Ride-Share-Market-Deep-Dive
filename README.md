@@ -31,10 +31,10 @@ These three datasets are provided to investigate:
 - **timestamps**: Time of event
 
 ## Analysis Conclusion
-- 1. Key Insights: Most rides are under 10 km and 33 minutes. The average LTV is $1531 and the driver lifetime is 55 days, with a churn rate of 15.9%.
-- 2. Factors Affecting LTV: For each unit increase in total earnings, the LTV increases by approximately 0.25 units.
-- 3. Churn Indicators: Longer wait times and lower earnings predict driver churn; optimizing dispatch and improving compensation can reduce turnover.
-- 4. Segment-Specific Approaches: Retain top performers (average LTV revenue $1157) with personalized rewards, and boost mid-value driver engagement with targeted incentives. Improve low-frequency driver engagement through feedback-driven improvements and tailored promotions.
+- Key Insights: Most rides are under 10 km and 33 minutes. The average LTV is $1531 and the driver lifetime is 55 days, with a churn rate of 15.9%.
+- Factors Affecting LTV: For each unit increase in total earnings, the LTV increases by approximately 0.25 units.
+- Churn Indicators: Longer wait times and lower earnings predict driver churn; optimizing dispatch and improving compensation can reduce turnover.
+- Segment-Specific Approaches: Retain top performers (average LTV revenue $1157) with personalized rewards, and boost mid-value driver engagement with targeted incentives. Improve low-frequency driver engagement through feedback-driven improvements and tailored promotions.
 
 The analysis will help identify patterns and trends in ride distances, durations, and the effects of PrimeTime on ride metrics, ultimately contributing to optimized driver performance and customer satisfaction.
 
