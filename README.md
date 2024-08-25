@@ -2,6 +2,8 @@
 
 ## Project Overview
 This project aims to analyze and understand the performance and behavior of drivers based on ride data. By leveraging data from driver onboarding, ride details, and ride event timestamps, we can gain insights into driver activity, ride efficiency, and the impact of prime-time pricing. The analysis aims to uncover insights into driver lifetime value, driver retention, and factors contributing to driver churn.
+
+
 ![image](https://github.com/user-attachments/assets/9beb1176-440c-40b4-85e2-b222c1962d2d)
 
 
