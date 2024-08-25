@@ -7,7 +7,6 @@ This project aims to analyze and understand the performance and behavior of driv
 ![image](https://github.com/user-attachments/assets/d9ca1da7-10db-4214-952d-d9db99422af9)
 
 
-
 ## Business Objectives
 
 It aims to optimize driver performance and customer satisfaction by analyzing data to increase driver lifetime value (LTV), extend driver tenure, predict and mitigate churn, and optimize high-value driver segments. This involves calculating LTV and tenure, identifying churn indicators, tailoring strategies for valuable segments, and enhancing revenue and ride efficiency with optimal pricing strategies and improved service reliability.
@@ -30,6 +29,11 @@ These three datasets are provided to investigate:
 - **event**: event describes the type of event (see below) 
 - **timestamps**: Time of event
 
+
+## Analysis Overview
+https://github.com/fangoaish/Pythong__Ride_Sharing_Market_Deep_Dive/blob/main/Driver_performance_and_ride_metrics.pptx.pdf
+
+
 ## Analysis Conclusion
 - Key Insights: Most rides are under 10 km and 33 minutes. The average LTV is $1531 and the driver lifetime is 55 days, with a churn rate of 15.9%.
 - Factors Affecting LTV: For each unit increase in total earnings, the LTV increases by approximately 0.25 units.
@@ -37,7 +41,3 @@ These three datasets are provided to investigate:
 - Segment-Specific Approaches: Retain top performers (average LTV revenue $1157) with personalized rewards, and boost mid-value driver engagement with targeted incentives. Improve low-frequency driver engagement through feedback-driven improvements and tailored promotions.
 
 The analysis will help identify patterns and trends in ride distances, durations, and the effects of PrimeTime on ride metrics, ultimately contributing to optimized driver performance and customer satisfaction.
-
-
-## Analysis Overview
-https://github.com/fangoaish/Pythong__Ride_Sharing_Market_Deep_Dive/blob/main/Driver_performance_and_ride_metrics.pptx.pdf
