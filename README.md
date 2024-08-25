@@ -8,7 +8,6 @@ This project aims to analyze and understand the performance and behavior of driv
 
 
 
-
 ## Business Objectives
 
 It aims to optimize driver performance and customer satisfaction by analyzing data to increase driver lifetime value (LTV), extend driver tenure, predict and mitigate churn, and optimize high-value driver segments. This involves calculating LTV and tenure, identifying churn indicators, tailoring strategies for valuable segments, and enhancing revenue and ride efficiency with optimal pricing strategies and improved service reliability.
@@ -31,8 +30,11 @@ These three datasets are provided to investigate:
 - **event**: event describes the type of event (see below) 
 - **timestamps**: Time of event
 
+## Analysis Conclusion
+- 1. Key Insights: Most rides are under 10 km and 33 minutes. The average LTV is $1531 and the driver lifetime is 55 days, with a churn rate of 15.9%.
+- 2. Factors Affecting LTV: For each unit increase in total earnings, the LTV increases by approximately 0.25 units.
+- 3. Churn Indicators: Longer wait times and lower earnings predict driver churn; optimizing dispatch and improving compensation can reduce turnover.
+- 4. Segment-Specific Approaches: Retain top performers (average LTV revenue $1157) with personalized rewards, and boost mid-value driver engagement with targeted incentives. Improve low-frequency driver engagement through feedback-driven improvements and tailored promotions.
 
-
-## Conclusion
 The analysis will help identify patterns and trends in ride distances, durations, and the effects of PrimeTime on ride metrics, ultimately contributing to optimized driver performance and customer satisfaction.
 
