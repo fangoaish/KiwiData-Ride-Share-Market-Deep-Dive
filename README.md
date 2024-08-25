@@ -38,3 +38,6 @@ These three datasets are provided to investigate:
 
 The analysis will help identify patterns and trends in ride distances, durations, and the effects of PrimeTime on ride metrics, ultimately contributing to optimized driver performance and customer satisfaction.
 
+
+## Analysis Overview
+https://github.com/fangoaish/Pythong__Ride_Sharing_Market_Deep_Dive/blob/main/Driver_performance_and_ride_metrics.pptx.pdf
