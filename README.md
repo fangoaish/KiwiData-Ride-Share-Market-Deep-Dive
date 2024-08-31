@@ -56,6 +56,10 @@ Fare and Revenue Calculation:
 Revenue: value for Kiwi is 20% of the fare, excluding the service fee
 
 
+## Data Preparation
+<img width="1440" alt="截圖 2024-06-25 21 14 19" src="https://github.com/user-attachments/assets/6afcfc35-37db-4f8a-8c0c-79fb4f810fe7">
+<img width="1440" alt="截圖 2024-06-25 21 14 22" src="https://github.com/user-attachments/assets/242ccf07-081a-4d8a-b67b-6942ac1f1abe">
+
 
 ## Analysis Overview
 https://github.com/fangoaish/Pythong__Ride_Sharing_Market_Deep_Dive/blob/main/Driver_performance_and_ride_metrics.pptx.pdf
