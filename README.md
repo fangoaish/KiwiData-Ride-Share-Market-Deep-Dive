@@ -30,6 +30,33 @@ These three datasets are provided to investigate:
 - **timestamps**: Time of event
 
 
+### Here’s an overview of the event types: 
+- **requested_at** passenger requested a ride 
+- **accepted_at** driver accepted a passenger request 
+- **arrived_at** driver arrived at pickup point 
+- **picked_up_at** driver picked up the passenger 
+- **dropped_off_at** driver dropped off a passenger at destination
+  
+### We can make the following assumptions about the Kiwi rate card: 
+- Base Fare $2.00 
+- Cost per Mile $1.15 
+- Cost per Minute $0.22 
+- Service Fee $1.75 
+- Minimum Fare $5.00 
+- Maximum Fare $400.00 
+
+### PrimeTime: 
+When the demand for rides exceeds the supply drivers are incentivized to go out and drive more. Therefore for rides during PrimeTime a percentage of the total fare is added to the total fare. This percentage is given in the column ride_prime_time. For example, if the ride fare is $100 and PrimeTime equals 0, then the total fare is $100. But if the PrimeTime is equal to 50, the total fare will be $150. 
+
+Fare and Revenue Calculation: 
+1. $2.00 + Duration(min) * 0.22 + Distance(miles) * 1.15 
+2. Add prime-time if applicable 
+3. Enforce $5 minimum and $400 maximum 
+4. Add 1.75 Service Fee 
+Revenue: value for Kiwi is 20% of the fare, excluding the service fee
+
+
+
 ## Analysis Overview
 https://github.com/fangoaish/Pythong__Ride_Sharing_Market_Deep_Dive/blob/main/Driver_performance_and_ride_metrics.pptx.pdf
 
