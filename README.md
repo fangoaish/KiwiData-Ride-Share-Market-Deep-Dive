@@ -125,6 +125,8 @@ Before diving into the data sea, I'll categorize the hypotheses systematically b
         - Knowing the average driver's lifetime aids in maintaining a steady supply of active drivers, which is crucial for meeting customer demand.
     - Measure by?
         - Calculating the time difference between the onboarding date and the last recorded ride for each driver, then averaging these durations.
+     
+
 ![Driver_performance_and_ride_metrics pptx (6)](https://github.com/user-attachments/assets/eee8128f-18aa-428c-abee-4ea23481ad9a)
 
 
