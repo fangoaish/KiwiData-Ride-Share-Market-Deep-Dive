@@ -11,6 +11,9 @@ This project aims to analyze and understand the performance and behavior of driv
 
 It aims to optimize driver performance and customer satisfaction by analyzing data to increase driver lifetime value (LTV), extend driver tenure, predict and mitigate churn, and optimize high-value driver segments. This involves calculating LTV and tenure, identifying churn indicators, tailoring strategies for valuable segments, and enhancing revenue and ride efficiency with optimal pricing strategies and improved service reliability.
 
+![Driver_performance_and_ride_metrics pptx](https://github.com/user-attachments/assets/f039d19d-e9ac-4d4a-8d42-d133aaf5061f)
+
+
 
 ## Data Sources
 These three datasets are provided to investigate:
@@ -57,8 +60,9 @@ Revenue: value for Kiwi is 20% of the fare, excluding the service fee
 
 
 ## Data Preparation
-<img width="1440" alt="截圖 2024-06-25 21 14 19" src="https://github.com/user-attachments/assets/6afcfc35-37db-4f8a-8c0c-79fb4f810fe7">
-<img width="1440" alt="截圖 2024-06-25 21 14 22" src="https://github.com/user-attachments/assets/242ccf07-081a-4d8a-b67b-6942ac1f1abe">
+![Driver_performance_and_ride_metrics pptx (2)](https://github.com/user-attachments/assets/d7dc15c5-bdec-4ac9-92d8-7320056cf7eb)
+![Driver_performance_and_ride_metrics pptx (3)](https://github.com/user-attachments/assets/25f6c580-9ff9-4cb6-8a9d-ea5420e63293)
+
 
 
 ## Analysis Overview
