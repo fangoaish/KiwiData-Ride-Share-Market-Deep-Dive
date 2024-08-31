@@ -96,7 +96,11 @@ Before diving into the data sea, I'll categorize the hypotheses systematically b
         - allocate resources efficiently, optimize marketing spend, and improve profitability by focusing on high-value drivers.
     - Measure by?
         - LTV = (ARPU * GM) / CCR
+     
+
+
 ![Driver_performance_and_ride_metrics pptx (4)](https://github.com/user-attachments/assets/06cfdcb4-8d45-4f4f-a09c-19d01356d794)
+
 
 
 - #### **Q:** Main Factors Affecting a Driver’s Lifetime Value?
@@ -106,6 +110,9 @@ Before diving into the data sea, I'll categorize the hypotheses systematically b
         - tailor strategies to increase driver satisfaction and longevity, leading to higher profits.
     - Measure by?
         - Correlating driver revenue with variables such as ride frequency, ride duration, ride distance, and prime-time percentage.
+
+
+
 ![Driver_performance_and_ride_metrics pptx (5)](https://github.com/user-attachments/assets/5a6ae426-07b6-42eb-ab65-865353f8d37a)
 
 
@@ -130,6 +137,9 @@ Before diving into the data sea, I'll categorize the hypotheses systematically b
         - Reducing driver churn leads to lower recruitment costs and a more stable workforce, enhancing service reliability and customer satisfaction.
     - Measure by?
         - Analyzing the time since the last ride for each driver, calculating the churn rate, and using statistical methods to identify churn predictors (e.g., ride frequency, earnings, and engagement levels).
+     
+
+
 ![Driver_performance_and_ride_metrics pptx (7)](https://github.com/user-attachments/assets/6b735de4-482f-4ea4-bff2-39bbd26d29f7)
 
 
@@ -142,6 +152,9 @@ Before diving into the data sea, I'll categorize the hypotheses systematically b
         - allocate resources efficiently, optimize marketing spend, and improve profitability by focusing on high-value drivers.
     - Measure by?
         - Segmenting drivers based on variables like ride frequency, revenue, ride duration, and prime-time usage, and comparing the segments.
+     
+
+
 ![Driver_performance_and_ride_metrics pptx (8)](https://github.com/user-attachments/assets/f8852e33-56a4-4182-8766-6d486c6e2f11)
 
 
@@ -154,6 +167,9 @@ Before diving into the data sea, I'll categorize the hypotheses systematically b
         - Focusing on high-value drivers maximizes revenue and improves overall business performance by prioritizing the most profitable segments.
     - Measure by?
         - Analyzing revenue per driver and segmenting based on performance metrics (e.g., high-value, high-frequency drivers).
+
+
+
 ![Driver_performance_and_ride_metrics pptx (9)](https://github.com/user-attachments/assets/a2b93421-0f7b-4264-8602-689d6a9c1bf0)
 
 
