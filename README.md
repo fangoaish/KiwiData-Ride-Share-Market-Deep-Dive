@@ -60,7 +60,28 @@ Revenue: value for Kiwi is 20% of the fare, excluding the service fee
 
 
 ## Data Preparation
+### Data Exploration
+- to check for missing values, duplicates, and any anomalies in the datasets.
+  - Data type 
+  - Missing values 
+    - I use the cross-check 
+      - Dataframe -> shows the numbers of columns & rows
+      - dataframe.info() -> shows the Non-Null count
+      - Other way to check -> df.isnull().sum()
+      - Duplicates 
+      - Anomalies
+
 ![Driver_performance_and_ride_metrics pptx (2)](https://github.com/user-attachments/assets/d7dc15c5-bdec-4ac9-92d8-7320056cf7eb)
+
+
+
+### Data Wrangling
+- Handle Anomalies / Null values
+- Convert the data type
+- Convert the units
+- Meters -> miles
+- Seconds -> mins
+
 ![Driver_performance_and_ride_metrics pptx (3)](https://github.com/user-attachments/assets/25f6c580-9ff9-4cb6-8a9d-ea5420e63293)
 
 
