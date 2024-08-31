@@ -86,8 +86,76 @@ Revenue: value for Kiwi is 20% of the fare, excluding the service fee
 
 
 
-## Analysis Overview
-https://github.com/fangoaish/Pythong__Ride_Sharing_Market_Deep_Dive/blob/main/Driver_performance_and_ride_metrics.pptx.pdf
+## Exploratory Data Analysis
+Before diving into the data sea, I'll categorize the hypotheses systematically based on our goal, establishing a structured and logical framework for thoughtful analysis.
+
+- #### **Q:** Average Lifetime Value (LTV) of a Driver?
+    - Why do I want to know? 
+        - LTV -> driver acquisition and retention strategies.
+    - So what?     
+        - allocate resources efficiently, optimize marketing spend, and improve profitability by focusing on high-value drivers.
+    - Measure by?
+        - LTV = (ARPU * GM) / CCR
+![Driver_performance_and_ride_metrics pptx (4)](https://github.com/user-attachments/assets/06cfdcb4-8d45-4f4f-a09c-19d01356d794)
+
+
+- #### **Q:** Main Factors Affecting a Driver’s Lifetime Value?
+    - Why do I want to know? 
+        - Identifying these factors helps in understanding what drives higher LTV and enables targeted actions to enhance these factors.
+    - So what?     
+        - tailor strategies to increase driver satisfaction and longevity, leading to higher profits.
+    - Measure by?
+        - Correlating driver revenue with variables such as ride frequency, ride duration, ride distance, and prime-time percentage.
+![Driver_performance_and_ride_metrics pptx (5)](https://github.com/user-attachments/assets/5a6ae426-07b6-42eb-ab65-865353f8d37a)
+
+
+
+
+- #### **Q:**  Average Projected Lifetime of a Driver
+    - Why do I want to know? 
+        - Understanding the average tenure helps in forecasting driver availability and planning for recruitment and retention efforts.
+    - So what?     
+        - Knowing the average driver's lifetime aids in maintaining a steady supply of active drivers, which is crucial for meeting customer demand.
+    - Measure by?
+        - Calculating the time difference between the onboarding date and the last recorded ride for each driver, then averaging these durations.
+![Driver_performance_and_ride_metrics pptx (6)](https://github.com/user-attachments/assets/eee8128f-18aa-428c-abee-4ea23481ad9a)
+
+
+
+
+- #### **Q:** Driver Churn Analysis
+    - Why do I want to know? 
+        - Identifying churn patterns and predictive indicators allows for proactive measures to retain drivers and reduce turnover.
+    - So what?     
+        - Reducing driver churn leads to lower recruitment costs and a more stable workforce, enhancing service reliability and customer satisfaction.
+    - Measure by?
+        - Analyzing the time since the last ride for each driver, calculating the churn rate, and using statistical methods to identify churn predictors (e.g., ride frequency, earnings, and engagement levels).
+![Driver_performance_and_ride_metrics pptx (7)](https://github.com/user-attachments/assets/6b735de4-482f-4ea4-bff2-39bbd26d29f7)
+
+
+
+
+- #### **Q:** Do All Drivers Act Alike?
+    - Why do I want to know? 
+        - Customized approaches for different driver segments can enhance overall driver performance and satisfaction, leading to better service delivery.
+    - So what?     
+        - allocate resources efficiently, optimize marketing spend, and improve profitability by focusing on high-value drivers.
+    - Measure by?
+        - Segmenting drivers based on variables like ride frequency, revenue, ride duration, and prime-time usage, and comparing the segments.
+![Driver_performance_and_ride_metrics pptx (8)](https://github.com/user-attachments/assets/f8852e33-56a4-4182-8766-6d486c6e2f11)
+
+
+
+
+- #### **Q:** Specific Segments of Drivers Generating More Value?
+    - Why do I want to know? 
+        - Recognizing high-value segments helps in targeting retention efforts and designing incentives to keep these drivers engaged.
+    - So what?     
+        - Focusing on high-value drivers maximizes revenue and improves overall business performance by prioritizing the most profitable segments.
+    - Measure by?
+        - Analyzing revenue per driver and segmenting based on performance metrics (e.g., high-value, high-frequency drivers).
+![Driver_performance_and_ride_metrics pptx (9)](https://github.com/user-attachments/assets/a2b93421-0f7b-4264-8602-689d6a9c1bf0)
+
 
 
 ## Analysis Conclusion
